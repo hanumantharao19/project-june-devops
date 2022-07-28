@@ -1,2 +1,2 @@
 # project-june-devops
-june batch project
+ this repo is practice fo june aws batch
